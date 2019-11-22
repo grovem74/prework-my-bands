@@ -1,0 +1,72 @@
+h1 {
+    text-align: center;
+    font-size: 55px;
+}
+/*background-image: url("https://i-love-png.com/images/panther-transparent.png"), url("https://www.pngtube.com/myfile/detail/39-394708_transparent-tall-grass.png");*/
+body {
+    background-color: rgba(128, 128, 128, 0.938);
+    background-image: url("https://www.freepngimg.com/thumb/panther/59878-leopard-felidae-black-cougar-panther-free-download-image.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 500px, auto;
+}
+
+#prep {
+    font-size: 30px;
+    letter-spacing: 15px;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+a:link, a:visited, b:link, b:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:active, a:hover, b:active, b:hover {
+    text-decoration: none;
+    color:red;
+}
+
+#songs {
+    padding:5px 0px;
+    background: rgb(241, 81, 81);
+    background-clip: padding-box;
+    width: 15%;
+    margin-left: 75px;
+  }
+
+.video {
+    display: block;
+    margin-left: 370px;
+    margin-top: -230px;
+}
+
+.video2 {
+    display: block;
+    margin-left: 370px;
+    margin-top: -230px;
+}
+
+#left {
+    margin-left: 75px;
+}
+
+.list {
+    text-decoration: none;
+}
+
+#site {
+    margin-left: 550px;
+}
+
+#right {
+    height: 1100px;
+    width: 25%;
+    background: linear-gradient(to right, #333, #333 50%, #eee 75%, #333 75%);
+ }
